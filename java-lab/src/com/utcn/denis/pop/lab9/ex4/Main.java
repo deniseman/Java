@@ -1,0 +1,7 @@
+package com.utcn.denis.pop.lab9.ex4;
+
+public class Main {
+    public static void main(String[] args) {
+        X0app x0=new X0app();
+    }
+}
