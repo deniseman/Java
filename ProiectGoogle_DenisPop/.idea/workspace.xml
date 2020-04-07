@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e22fec46-4cd7-439b-b2f7-1c0252c19888" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jNextButton</find>
+      <find>suitableda</find>
+      <find>suitableDa</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>monthlyRate</replace>
+      <replace>jFindButton</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1YSMUhqb95lMtJLUaQKao82oMbl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teste" />
+      <module name="ProiectGoogle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e22fec46-4cd7-439b-b2f7-1c0252c19888" name="Default Changelist" comment="" />
+      <created>1577033915626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577033915626</updated>
+      <workItem from="1577033919690" duration="31771000" />
+      <workItem from="1577195071728" duration="4603000" />
+      <workItem from="1582931561092" duration="57000" />
+      <workItem from="1583993753091" duration="1893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="128" key="FileChooserDialogImpl" timestamp="1583996445553">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="462" y="128" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583996445553" />
+    <state width="1323" height="198" key="GridCell.Tab.0.bottom" timestamp="1582931617929">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582931617929" />
+    <state width="1323" height="198" key="GridCell.Tab.0.center" timestamp="1582931617929">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582931617929" />
+    <state width="1323" height="198" key="GridCell.Tab.0.left" timestamp="1582931617929">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582931617929" />
+    <state width="1323" height="198" key="GridCell.Tab.0.right" timestamp="1582931617929">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582931617929" />
+    <state x="390" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1583994516343">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="390" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583994516343" />
+    <state x="65" y="10" key="new project wizard" timestamp="1583996464940">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="10" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1583996464940" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
